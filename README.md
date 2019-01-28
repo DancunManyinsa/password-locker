@@ -53,7 +53,9 @@ A folder by the name Password-locker appears on your desktop
 Open your terminal
 
 ```cd/Desktop/Password-locker/```
+
 ```atom .```
+
 ```python3.6 run.py```
 
 ## License
