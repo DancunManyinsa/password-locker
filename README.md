@@ -56,6 +56,8 @@ Open your terminal
 
 ```atom .```
 
+Run Password-locker
+
 ```python3.6 run.py```
 
 ## License
