@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.6
-import string,random,tim
+import string,random,time
 from locker import Credentials,UsersData
 
 def new_account(id,user_name,password):
