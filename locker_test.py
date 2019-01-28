@@ -1,4 +1,4 @@
-from locker import Credentials,UsersDat
+from locker import Credentials,UsersData
 import unittest, pyperclip
 
 class TestCredentials(unittest.TestCase):
