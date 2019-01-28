@@ -21,9 +21,7 @@ Password-locker App allows the user to:
 * Create a new account.
 * Sign in.
 * Generate a password.
-* See the number of upvotes and number of downvotes for each quote.
 * Copy Password to clipboard.
-* Log out.
 * Exit Application.
 
 ## Getting Started
