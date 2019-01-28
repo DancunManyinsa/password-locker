@@ -1,4 +1,4 @@
-import pypercli
+import pyperclip
 class Credentials:
    
     users_list=[]
