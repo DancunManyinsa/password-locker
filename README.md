@@ -86,5 +86,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ## Acknowledgments
 
-Inspiration from Steve Muema, Dan Boneh, Dominic Macharia, John, George Waceke and James Vitalis.
-
+Great minds
