@@ -1,7 +1,7 @@
 ## Author
 Dancun Manyinsa - Password-locker App project 
 
-I'm a Python and Rust enthusiast interested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
+I'm a Python and Rust enthusiast interested in AI and Cybersecurity. 
 
 ## Password-locker project
 Password-locker App project enables a user manage passwords and be able to generate new passwords. It also provides the option of putting in a password that the user wants to use for the new credential account.
