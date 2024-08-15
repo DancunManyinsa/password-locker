@@ -1,5 +1,5 @@
 ## Author
-Dancun Manyinsa - Password-locker App project 
+> Dancun Manyinsa - Password-locker - Console Application project 
 
 ## Password-locker project
 Password-locker App project enables a user manage passwords and be able to generate new passwords. It also provides the option of putting in a password that the user wants to use for the new credential account.
