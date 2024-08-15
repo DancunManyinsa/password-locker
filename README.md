@@ -1,10 +1,12 @@
 ## Author
+
 > Dancun Manyinsa - Password-locker - Console Application project 
 
 ## Password-locker project
 Password-locker App project enables a user manage passwords and be able to generate new passwords. It also provides the option of putting in a password that the user wants to use for the new credential account.
  
 ## Project requirements
+
 1. User should be able to create a password locker account with my details, a login username and password.
 2. User should be able to store already existing account credentials in the application.
 3. User should be able to create new account credentials in the application..
